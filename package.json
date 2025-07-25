@@ -5,7 +5,6 @@
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
-    "postinstall": "npx lightningcss --version",
     "start": "next start",
     "lint": "next lint"
   },
